@@ -1,4 +1,4 @@
-# getWeather
+# WeatherService
 Get the weather using approximate location data found from IP location.  
 Made for Arduino/ESP32 etc
 
