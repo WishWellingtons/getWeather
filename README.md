@@ -6,3 +6,6 @@ Made for Arduino/ESP32 etc
 - For actually accurate weather forecasts, GPS location should be used and fed into the openMeteo API call. 
 - Uses https://ipinfo.io/json or https://ipapi.co/json to get IP based location.
 - Uses https://open-meteo.com/ as the weather API. Check it out to see what parameters can be fetched, there's a lot!
+
+## To-do  
+- Make the lat and lon values variables so this can be used with GPS as well and not rely on IP location. 
